@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=36&duration=3000&pause=10&color=FF0FA2&width=435&lines=Hello!+I'm+Gosia++%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=30&duration=3000&pause=10&color=FF0FA2&width=435&lines=Hello!+I'm+Gosia++%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <samp>
     I'm taking baby steps at my frontend development journey but <i>there are far, far better things ahead than any we leave behind 🎈</i><br>
