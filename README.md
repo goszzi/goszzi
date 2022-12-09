@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=courier+new&size=30&duration=3000&pause=10&color=FF0FA2&width=435&lines=Hello!+I'm+Gosia++%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<samp>
-    I'm taking baby steps at my frontend development journey. <br>
-  I quit my adventure with finance & accounting to become a coding superhero 🎉
 
   ## <b>I use:</b>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
