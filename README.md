@@ -13,7 +13,7 @@ far better things ahead than any we leave behind. So I'm taking baby steps at my
  <a href="https://www.linkedin.com/in/malgorzata-mikla/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:malgorzata.mikla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://dribbble.com/goszzi/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
-## Some stats
+## Stats:
 
 <span>
 <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=goszzi&show_icons=true&locale=en&layout=compact&theme=transparent" alt="goszzi" /> 
