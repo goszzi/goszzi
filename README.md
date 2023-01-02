@@ -1,6 +1,6 @@
 <p align="center"
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=courier+new&size=30&duration=3000&pause=10&color=FF0FA2&width=435&lines=Hello!+I'm+Gosia++%F0%9F%91%8B)](https://git.io/typing-svg) </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=League+spartan&weight=200&size=35&pause=1000&color=E5096B&width=435&lines=Hello!+I'm+Gosia.)](https://git.io/typing-svg)
 I quit my adventure with finance & accounting to become a frontend superhero. So... I'm taking baby steps at my coding journey.
     
   ## I use: 
